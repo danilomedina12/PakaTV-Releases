@@ -28,6 +28,11 @@
       "color_hex": "#00468C"
     },
     {
+      "nombre": "EVENTO",
+      "url": "https://si.domain156.xyz/tntsports/tracks-v1a1/mono.m3u8?ip=186.22.253.247&token=c6351713f46d939de2e2b5937cedfdb418d7f84a-7e-1784889930-1784835930",
+      "color_hex": "#00468C"
+    },
+    {
       "nombre": "CANAL 26",
       "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "color_hex": "#0055A4"
