@@ -1,0 +1,151 @@
+{
+  "version_apk": 15,
+  "apk_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/pakatv.apk",
+  "canales": [
+    {
+      "nombre": "EL TRECE",
+      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+      "color_hex": "#DA291C"
+    },
+    {
+      "nombre": "TN",
+      "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8",
+      "color_hex": "#B30000"
+    },
+    {
+      "nombre": "TV PÚBLICA",
+      "url": "https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8",
+      "color_hex": "#00A859"
+    },
+    {
+      "nombre": "TELEFE",
+      "url": "https://www.mitelefe.com/telefe-en-vivo",
+      "color_hex": "#0033A0"
+    },
+    {
+      "nombre": "BOCA (EVENTO)",
+      "url": "https://pw.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=186.22.253.247&token=c448c1f012fbb469565633889c8f9424c282325c-eb-1783597835-1783543835",
+      "color_hex": "#00468C"
+    },
+    {
+      "nombre": "CANAL 26",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "LATINA TV",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "TELEMAX",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "ESPN PREMIUM",
+      "url": "http://xpaneltv.com:8080/Alirf/78587421/175929",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "TNT SPORTS",
+      "url": "http://181.13.252.102:8000/play/a0bc/index.m3u8?hls",
+      "color_hex": "#D81B60"
+    },
+    {
+      "nombre": "TyC SPORTS",
+      "url": "http://38.199.4.105:9999/play/a105/index.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "ESPN",
+      "url": "http://191.97.49.82:8001/play/a00k/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 2",
+      "url": "http://45.173.74.2:2010/play/a091/index.m3u8?",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 3",
+      "url": "http://186.33.57.220:8000/play/a105/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "FOX SPORTS",
+      "url": "http://181.13.252.102:8000/play/a07j/index.m3u8?hls",
+      "color_hex": "#E65100"
+    },
+    {
+      "nombre": "FOX SPORTS 2",
+      "url": "http://181.13.252.102:8000/play/a05c/index.m3u8?hls",
+      "color_hex": "#E65100"
+    },
+    {
+      "nombre": "FOX SPORTS 3",
+      "url": "http://181.13.252.102:8000/play/a02t/index.m3u8?hls",
+      "color_hex": "#E65100"
+    },
+    {
+      "nombre": "DSPORTS",
+      "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8",
+      "color_hex": "#4CAF50"
+    },
+    {
+      "nombre": "CINECANAL",
+      "url": "http://181.13.252.102:8000/play/a07b/index.m3u8?hls",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "SPACE",
+      "url": "http://181.13.252.102:8000/play/a02w/index.m3u8?hls",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "STAR CHANNEL",
+      "url": "http://181.13.252.102:8000/play/a079/index.m3u8?hls",
+      "color_hex": "#1976D2"
+    },
+    {
+      "nombre": "WARNER",
+      "url": "http://181.13.252.102:8000/play/a05e/index.m3u8?hls",
+      "color_hex": "#FBC02D"
+    },
+    {
+      "nombre": "SONY",
+      "url": "http://181.13.252.102:8000/play/a05d/index.m3u8?hls",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "A&E",
+      "url": "http://181.13.252.102:8000/play/a05i/index.m3u8?hls",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "CARTOON NETWORK",
+      "url": "http://181.13.252.102:8000/play/a075/index.m3u8?hls",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "DISCOVERY H&H",
+      "url": "http://181.13.252.102:8000/play/a07h/index.m3u8?hls",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "QUIERO MÚSICA",
+      "url": "https://www.youtube.com/watch?v=vGNglKWqwcQ",
+      "color_hex": "#8E24AA"
+    },
+    {
+      "nombre": "LA 100 TV",
+      "url": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+      "color_hex": "#FF9800"
+    },
+    {
+      "nombre": "MAGAZINE",
+      "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
+      "color_hex": "#E91E63"
+    }
+  ]
+}
