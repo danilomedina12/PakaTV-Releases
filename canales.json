@@ -72,6 +72,11 @@
       "url": "http://45.173.74.2:2010/play/a091/index.m3u8?",
       "color_hex": "#CC0000"
     },
+     {
+      "nombre": "ESPN 2 V2",
+      "url": "http://38.19.16.151:8000/play/a0un",
+      "color_hex": "#CC0000"
+    },
     {
       "nombre": "ESPN 3",
       "url": "http://186.33.57.220:8000/play/a105/index.m3u8",
