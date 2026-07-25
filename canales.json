@@ -156,6 +156,356 @@
       "nombre": "MAGAZINE",
       "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
       "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "A&E HD",
+      "url": "http://191.97.63.182:8888/play/a0bu/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "AMC HD",
+      "url": "http://191.97.63.182:8888/play/a0c5/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "ATV",
+      "url": "http://191.97.63.182:8888/play/a0ah/index.m3u8",
+      "color_hex": "#3F51B5"
+    },
+    {
+      "nombre": "AXN HD",
+      "url": "http://191.97.63.182:8888/play/a0f1/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Adult Swim",
+      "url": "http://191.97.63.182:8888/play/a0fp/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Animal Planet HD",
+      "url": "http://191.97.63.182:8888/play/a0f6/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Cartoon Network HD",
+      "url": "http://191.97.63.182:8888/play/a0n4/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Cartoonito",
+      "url": "http://191.97.63.182:8888/play/a0n9/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Cinecanal HD",
+      "url": "http://191.97.63.182:8888/play/a0jg/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Cinemax HD",
+      "url": "http://191.97.63.182:8888/play/a0d8/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Comedy Central HD",
+      "url": "http://191.97.63.182:8888/play/a0bv/index.m3u8",
+      "color_hex": "#FBC02D"
+    },
+    {
+      "nombre": "DHE HD",
+      "url": "http://191.97.63.182:8888/play/a0f2/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "DIREC TV SPORT",
+      "url": "http://191.97.63.182:8888/play/a0dc/index.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "Discovery Channel HD",
+      "url": "http://191.97.63.182:8888/play/a0f9/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Discovery Kids HD",
+      "url": "http://191.97.63.182:8888/play/a0n2/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Discovery Theater HD",
+      "url": "http://191.97.63.182:8888/play/a0eo/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Discovery World HD",
+      "url": "http://191.97.63.182:8888/play/a0j7/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Disney Channel HD",
+      "url": "http://191.97.63.182:8888/play/a0jj/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Disney Jr",
+      "url": "http://191.97.63.182:8888/play/a0no/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Disney Junior",
+      "url": "http://191.97.63.182:8888/play/a0d5/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "ESPN 2",
+      "url": "http://191.97.63.182:8888/play/a0ns/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 2 HD",
+      "url": "http://191.97.63.182:8888/play/a0mn/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 3 HD",
+      "url": "http://191.97.63.182:8888/play/a0et/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 4HD",
+      "url": "http://191.97.63.182:8888/play/a0ew/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 5 HD",
+      "url": "http://191.97.63.182:8888/play/a0j3/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 6HD",
+      "url": "http://191.97.63.182:8888/play/a0es/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN 7HD",
+      "url": "http://191.97.63.182:8888/play/a0eu/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN HD",
+      "url": "http://191.97.63.182:8888/play/a0df/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "ESPN HD (Alt)",
+      "url": "http://191.97.63.182:8888/play/a0mr/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "FX HD",
+      "url": "http://191.97.63.182:8888/play/a0jk/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "GLOBAL",
+      "url": "http://191.97.63.182:8888/play/a0aj/index.m3u8",
+      "color_hex": "#3F51B5"
+    },
+    {
+      "nombre": "Golden Edge",
+      "url": "http://191.97.63.182:8888/play/a0a4/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Golden HD",
+      "url": "http://191.97.63.182:8888/play/a09f/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO 2",
+      "url": "http://191.97.63.182:8888/play/a0nk/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Family",
+      "url": "http://191.97.63.182:8888/play/a0nn/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Family HD",
+      "url": "http://191.97.63.182:8888/play/a0di/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO HD",
+      "url": "http://191.97.63.182:8888/play/a0c6/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO MUNDI",
+      "url": "http://191.97.63.182:8888/play/a0aq/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO POP HD",
+      "url": "http://191.97.63.182:8888/play/a0j4/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Plus",
+      "url": "http://191.97.63.182:8888/play/a0a9/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Plus (Alt)",
+      "url": "http://191.97.63.182:8888/play/a0nl/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Signature",
+      "url": "http://191.97.63.182:8888/play/a0ap/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO XTREME HD",
+      "url": "http://191.97.63.182:8888/play/a0ex/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "HBO Xtreme SD",
+      "url": "http://191.97.63.182:8888/play/a0nm/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "History 2",
+      "url": "http://191.97.63.182:8888/play/a09i/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "History Channel HD",
+      "url": "http://191.97.63.182:8888/play/a0f7/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Home & Health HD",
+      "url": "http://191.97.63.182:8888/play/a0n5/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "MTV HD",
+      "url": "http://191.97.63.182:8888/play/a0c7/index.m3u8",
+      "color_hex": "#9C27B0"
+    },
+    {
+      "nombre": "Movistar Deportes",
+      "url": "http://191.97.63.182:8888/play/a0mu/index.m3u8",
+      "color_hex": "#0055A4"
+    },
+    {
+      "nombre": "Nat Geo HD",
+      "url": "http://191.97.63.182:8888/play/a0f5/index.m3u8",
+      "color_hex": "#009688"
+    },
+    {
+      "nombre": "Nick Jr.",
+      "url": "http://191.97.63.182:8888/play/a0n6/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Nick Music",
+      "url": "http://191.97.63.182:8888/play/a09o/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Nickelodeon HD",
+      "url": "http://191.97.63.182:8888/play/a0jw/index.m3u8",
+      "color_hex": "#E91E63"
+    },
+    {
+      "nombre": "Pasiones HD",
+      "url": "http://191.97.63.182:8888/play/a0f8/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "STAR CHANNEL HD",
+      "url": "http://191.97.63.182:8888/play/a0ez/index.m3u8",
+      "color_hex": "#1976D2"
+    },
+    {
+      "nombre": "Sony HD",
+      "url": "http://191.97.63.182:8888/play/a0f0/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Sony Movies",
+      "url": "http://191.97.63.182:8888/play/a0n3/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Space HD",
+      "url": "http://191.97.63.182:8888/play/a0ji/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Studio Universal",
+      "url": "http://191.97.63.182:8888/play/a0nq/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Studio Universal HD",
+      "url": "http://191.97.63.182:8888/play/a08x/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Sun Channel HD",
+      "url": "http://191.97.63.182:8888/play/a0f4/index.m3u8",
+      "color_hex": "#3F51B5"
+    },
+    {
+      "nombre": "TCM",
+      "url": "http://191.97.63.182:8888/play/a0a6/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "TNT HD",
+      "url": "http://191.97.63.182:8888/play/a0ey/index.m3u8",
+      "color_hex": "#D81B60"
+    },
+    {
+      "nombre": "TNT Novelas HD",
+      "url": "http://191.97.63.182:8888/play/a0eq/index.m3u8",
+      "color_hex": "#D81B60"
+    },
+    {
+      "nombre": "TNT Series HD",
+      "url": "http://191.97.63.182:8888/play/a0ep/index.m3u8",
+      "color_hex": "#D81B60"
+    },
+    {
+      "nombre": "UNIVERSAL CHANNEL HD",
+      "url": "http://191.97.63.182:8888/play/a0f3/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Universal Cinema SD",
+      "url": "http://191.97.63.182:8888/play/a0nu/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Universal Comedy SD",
+      "url": "http://191.97.63.182:8888/play/a0nv/index.m3u8",
+      "color_hex": "#FBC02D"
+    },
+    {
+      "nombre": "Universal Premiere SD",
+      "url": "http://191.97.63.182:8888/play/a0nt/index.m3u8",
+      "color_hex": "#212121"
+    },
+    {
+      "nombre": "Warner TV HD",
+      "url": "http://191.97.63.182:8888/play/a0n8/index.m3u8",
+      "color_hex": "#FBC02D"
     }
   ]
 }
