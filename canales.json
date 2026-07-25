@@ -29,7 +29,7 @@
     },
     {
       "nombre": "EVENTO",
-      "url": "https://si.domain156.xyz/tntsports/tracks-v1a1/mono.m3u8?ip=186.22.253.247&token=fbc7b644f9abe9a5032add079f69cf7b13a9f55f-76-1784982641-1784928641",
+      "url": "http://200.115.120.1:8000/play/ca043/index.m3u8",
       "color_hex": "#00468C"
     },
     {
