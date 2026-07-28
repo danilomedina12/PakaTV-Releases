@@ -29,7 +29,7 @@
     },
     {
       "nombre": "EVENTO",
-      "url": "https://s2.domain156.xyz/fanatiz7/tracks-v1a1/mono.m3u8?ip=186.22.253.247&token=dd5ecf8f3a636f8ae17953a04f7d08b1015266c9-af-1785141729-1785087729",
+      "url": "https://si.tudeporteshoy.xyz/disney3/tracks-v1a1/mono.m3u8?ip=186.22.253.247&token=b963aac52e0f0905310bfdfaa18118d20bcbcb57-b1-1785325163-1785271163",
       "color_hex": "#00468C"
     },
     {
@@ -301,6 +301,11 @@
       "nombre": "ESPN HD (Alt)",
       "url": "http://191.97.63.182:8888/play/a0mr/index.m3u8",
       "color_hex": "#CC0000"
+    },
+    {
+      "nombre": "TyC Sports Internacional",
+      "url": "http://38.224.231.176:8000/play/a0e0/index.m3u8",
+      "color_hex": "#0000FF"
     },
     {
       "nombre": "FX HD",
