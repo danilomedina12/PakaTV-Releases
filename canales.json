@@ -4,7 +4,7 @@
   "canales": [
     {
       "nombre": "EL TRECE",
-      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+      "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
       "color_hex": "#DA291C"
     },
     {
@@ -14,12 +14,12 @@
     },
     {
       "nombre": "TV PÚBLICA",
-      "url": "https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8",
+      "url": "http://181.209.105.115:2525/play/tvpublica/index.m3u8",
       "color_hex": "#00A859"
     },
     {
       "nombre": "TELEFE",
-      "url": "https://www.mitelefe.com/telefe-en-vivo",
+      "url": "http://181.209.105.115:2525/play/telefe/index.m3u8",
       "color_hex": "#0033A0"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "nombre": "ESPN",
-      "url": "http://191.97.49.82:8001/play/a00k/index.m3u8",
+      "url": "http://181.209.105.115:2525/play/espn/index.m3u8",
       "color_hex": "#CC0000"
     },
     {
       "nombre": "ESPN 2",
-      "url": "http://45.173.74.2:2010/play/a091/index.m3u8?",
+      "url": "http://181.209.105.115:2525/play/espn2/index.m3u8",
       "color_hex": "#CC0000"
     },
      {
@@ -79,22 +79,22 @@
     },
     {
       "nombre": "ESPN 3",
-      "url": "http://186.33.57.220:8000/play/a105/index.m3u8",
+      "url": "http://181.209.105.115:2525/play/espn3/index.m3u8",
       "color_hex": "#CC0000"
     },
     {
       "nombre": "FOX SPORTS",
-      "url": "http://181.13.252.102:8000/play/a07j/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
       "color_hex": "#E65100"
     },
     {
       "nombre": "FOX SPORTS 2",
-      "url": "http://181.13.252.102:8000/play/a05c/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
       "color_hex": "#E65100"
     },
     {
       "nombre": "FOX SPORTS 3",
-      "url": "http://181.13.252.102:8000/play/a02t/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/foxsports3/index.m3u8",
       "color_hex": "#E65100"
     },
     {
@@ -104,42 +104,42 @@
     },
     {
       "nombre": "CINECANAL",
-      "url": "http://181.13.252.102:8000/play/a07b/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/cinecanal/index.m3u8",
       "color_hex": "#212121"
     },
     {
       "nombre": "SPACE",
-      "url": "http://181.13.252.102:8000/play/a02w/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/space/index.m3u8",
       "color_hex": "#212121"
     },
     {
       "nombre": "STAR CHANNEL",
-      "url": "http://181.13.252.102:8000/play/a079/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/starchannel/index.m3u8",
       "color_hex": "#1976D2"
     },
     {
       "nombre": "WARNER",
-      "url": "http://181.13.252.102:8000/play/a05e/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/warnerchannel/index.m3u8",
       "color_hex": "#FBC02D"
     },
     {
       "nombre": "SONY",
-      "url": "http://181.13.252.102:8000/play/a05d/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/sonyhd/index.m3u8",
       "color_hex": "#212121"
     },
     {
       "nombre": "A&E",
-      "url": "http://181.13.252.102:8000/play/a05i/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/ae/index.m3u8",
       "color_hex": "#212121"
     },
     {
       "nombre": "CARTOON NETWORK",
-      "url": "http://181.13.252.102:8000/play/a075/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/cartoonnetwork/index.m3u8",
       "color_hex": "#E91E63"
     },
     {
       "nombre": "DISCOVERY H&H",
-      "url": "http://181.13.252.102:8000/play/a07h/index.m3u8?hls",
+      "url": "http://181.209.105.115:2525/play/discoveryhh/index.m3u8",
       "color_hex": "#009688"
     },
     {
