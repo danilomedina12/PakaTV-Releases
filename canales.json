@@ -49,12 +49,12 @@
     },
     {
       "nombre": "ESPN PREMIUM",
-      "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
+      "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
       "color_hex": "#CC0000"
     },
     {
       "nombre": "TNT SPORTS",
-      "url": "http://181.209.105.115:2525/play/tntsports/index.m3u8",
+      "url": "http://190.128.214.97:64333/play/a03c/index.m3u8",
       "color_hex": "#D81B60"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "nombre": "FOX SPORTS",
-      "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
+      "url": "http://190.128.214.97:64333/play/a02l/index.m3u8",
       "color_hex": "#E65100"
     },
     {
@@ -109,12 +109,12 @@
     },
     {
       "nombre": "SPACE",
-      "url": "http://181.209.105.115:2525/play/space/index.m3u8",
+      "url": "http://190.128.214.97:64333/play/a03f/index.m3u8",
       "color_hex": "#212121"
     },
     {
       "nombre": "STAR CHANNEL",
-      "url": "http://181.209.105.115:2525/play/starchannel/index.m3u8",
+      "url": "http://190.128.214.97:64333/play/a03g/index.m3u8",
       "color_hex": "#1976D2"
     },
     {
