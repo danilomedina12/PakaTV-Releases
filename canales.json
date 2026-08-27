@@ -11,13 +11,8 @@
       "color_hex": "#B30000"
     },
     {
-      "nombre": "TV PÚBLICA",
-      "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
-      "color_hex": "#00A859"
-    },
-    {
       "nombre": "TELEFE",
-      "url": "http://186.33.57.100:8000/play/a2rn/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a00h/index.m3u8",
       "color_hex": "#0033A0"
     },
     {
@@ -57,17 +52,17 @@
     },
     {
       "nombre": "TyC SPORTS",
-      "url": "http://181.209.105.115:2525/play/tycsports/index.m3u8",
+      "url": "http://38.252.215.33:8000/play/a00t/index.m3u8",
       "color_hex": "#0055A4"
     },
     {
       "nombre": "ESPN",
-      "url": "http://209.14.119.203:8000/play/a07o/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a0d8/index.m3u8",
       "color_hex": "#CC0000"
     },
     {
       "nombre": "ESPN 2",
-      "url": "http://209.14.119.203:8000/play/a0cd/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a0dq/index.m3u8",
       "color_hex": "#CC0000"
     },
      {
@@ -77,7 +72,7 @@
     },
     {
       "nombre": "ESPN 3",
-      "url": "http://209.14.119.203:8000/play/a08n/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a0ds/index.m3u8",
       "color_hex": "#CC0000"
     },
     {
@@ -87,7 +82,7 @@
     },
     {
       "nombre": "FOX SPORTS 2",
-      "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a0da/index.m3u8",
       "color_hex": "#E65100"
     },
     {
@@ -107,7 +102,7 @@
     },
     {
       "nombre": "SPACE",
-      "url": "http://190.128.214.97:64333/play/a03f/index.m3u8",
+      "url": "http://158.172.155.130:8000/play/a00s/index.m3u8",
       "color_hex": "#212121"
     },
     {
@@ -283,6 +278,11 @@
     {
       "nombre": "TyC Sports Internacional",
       "url": "http://38.224.231.176:8000/play/a0e0/index.m3u8",
+      "color_hex": "#0000FF"
+    },
+    {
+      "nombre": "TyC Sports Internacional op 2",
+      "url": "http://186.33.57.71:9000/play/a047/index.m3u8",
       "color_hex": "#0000FF"
     },
     {
