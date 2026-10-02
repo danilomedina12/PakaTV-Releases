@@ -46,6 +46,11 @@
       "color_hex": "#CC0000"
     },
     {
+      "nombre": "ESPN PREMIUM V2",
+      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
+      "color_hex": "#CC0000"
+    },
+    {
       "nombre": "TNT SPORTS",
       "url": "http://190.128.214.97:64333/play/a03c/index.m3u8",
       "color_hex": "#D81B60"
