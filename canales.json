@@ -16,6 +16,11 @@
       "color_hex": "#0033A0"
     },
     {
+      "nombre": "TELEFE OP2",
+      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+      "color_hex": "#0033A0"
+    },
+    {
       "nombre": "BOCA (EVENTO)",
       "url": "http://190.233.81.191:8000/play/a0ej/index.m3u8",
       "color_hex": "#00468C"
